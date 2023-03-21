@@ -51,7 +51,6 @@ const HomeScreen = ({ navigation }) => {
         numColumns={3}
         columnWrapperStyle={styles.columnWrapper}
       />
-
       <Modal
         animationType="slide"
         transparent={true}
